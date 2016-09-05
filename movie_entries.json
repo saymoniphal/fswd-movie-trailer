@@ -1,12 +1,4 @@
 {
-    "mulan" : {
-    	"title" : "Mulan",
-        "runtime" : 120,
-        "storyline" : "A young woman secretly join army to save her father from going to fight in old age",
-        "poster_image_url" : "http://ia.media-imdb.com/images/M/MV5BMTIwNjY4NDU2NF5BMl5BanBnXkFtZTcwMzM0OTUyMQ@@._V1_UY268_CR2,0,182,268_AL_.jpg",
-        "trailer_youtube_url" : "https://www.youtube.com/watch?v=MsAniqGowKE"
-        },  
-
     "kungfuPanda" : {
 	"title" : "KunFu Panda",
         "runtime" : 120,
@@ -14,6 +6,14 @@
         "poster_image_url" : "http://www.crankycritic.com/archive08/posters/kung_fu_panda_ver3.jpg",
         "trailer_youtube_url" : "https://www.youtube.com/watch?v=PXi3Mv6KMzY"
         },
+
+    "mulan" : {
+    	"title" : "Mulan",
+        "runtime" : 120,
+        "storyline" : "A young woman secretly join army to save her father from going to fight in old age",
+        "poster_image_url" : "http://ia.media-imdb.com/images/M/MV5BMTIwNjY4NDU2NF5BMl5BanBnXkFtZTcwMzM0OTUyMQ@@._V1_UY268_CR2,0,182,268_AL_.jpg",
+        "trailer_youtube_url" : "https://www.youtube.com/watch?v=wAbGAkkOgcM"
+        },  
 
     "braveheart" : { 
         "title" : "Brave Heart",

@@ -35,7 +35,7 @@ def movies(movie_info_dict):
     return movies
 
 def main():
-    movie_dict = read_json("movie_entries.conf")
+    movie_dict = read_json("movie_entries.json")
     fresh_tomatoes.open_movies_page(movies(movie_dict)) 
 
 if __name__ == "__main__":
